@@ -165,10 +165,9 @@ This is a RESTful API for user profile management with authentication. Users can
    ```
 
    # Postman Documentation
+   [Postman collection](https://martian-flare-823633.postman.co/workspace/New-Team-Workspace~f054c1a9-88cb-4c93-ab69-0e561a02792d/collection/27894533-0eff2cd6-d803-4804-b164-10568d787668?action=share&creator=27894533)
 
-   
-
- 
+    
    # Credits <br/>
    This project was developed by ```Jahir Pendhari```.
 
